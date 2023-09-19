@@ -11,6 +11,7 @@ I'm Obert Gwamure, a passionate software developer focusing on web applications 
 - 🎓 I pushing for a degree in Computer Science with the University of South Africa, Final Year.
 - 💡 I enjoy tackling complex problems and turning ideas into functional and elegant solutions.
 - 💬 Let's connect! Feel free to reach out for collaboration, discussions, or just to say hi.
+![Screenshot from 2023-09-19 15-55-59](https://github.com/obertgwamure/obertgwamure/assets/68461572/9f908640-f1b2-4ec7-9bb1-29cb22b09e95)
 
 ## 🛠️ Technologies & Tools
 
