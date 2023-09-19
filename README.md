@@ -13,7 +13,7 @@ I'm Obert Gwamure, a passionate software developer focusing on web applications 
 - 💬 Let's connect! Feel free to reach out for collaboration, discussions, or just to say hi.
 
   
-[![Screenshot](https://github.com/obertgwamure/obertgwamure/raw/main/assets/68461572/9f908640-f1b2-4ec7-9bb1-29cb22b09e95.png)](http://www.obertg.com)
+[![Screenshot](https://github.com/obertgwamure/obertgwamure/assets/68461572/9f908640-f1b2-4ec7-9bb1-29cb22b09e95)](http://www.obertg.com)
 
 
 
